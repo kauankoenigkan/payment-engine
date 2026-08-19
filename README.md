@@ -91,10 +91,10 @@ Pré-requisitos
 
 ```Bash
 # 1. Clone o repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [https://github.com/kauankoenigkan/payment-engine.git](https://github.com/kauankoenigkan/payment-engine.git)
 
 # 2. Acesse a pasta do projeto
-cd seu-repositorio
+cd payment-engine
 ```
 
 ## Configuração do Ambiente (Docker)
